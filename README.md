@@ -1,6 +1,6 @@
 ## Hello Everyone...!! 🙋🏻‍♂️ This is Saurabh Bhardwaj ✨
-### Sbhardwaj8717
-### 👨🏻‍💻 I am a self taught programmer and developer. I am a <Java Developer> , <Front End Web Developer>, <Desktop Application Developer using Java> and a <Competitive programmer> too.
+### Sbhardwaj8717✨
+### 👨🏻‍💻 I am a self taught programmer and developer. I am a Java Developer , Front End Web Developer, Desktop Application Developer using Java and a Competitive programmer too.✨
 
 
 - 🔭 I’m currently working on a project for Early Detection and Prevention of Alzheimer.🤓<br />
