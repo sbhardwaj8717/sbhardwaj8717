@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello Everyone...!! 🙋🏻‍♂️ This is Saurabh Bhardwaj ✨
+#### Sbhardwaj8717
+##### 👨🏻‍💻 I am a self taught programmer and developer. I am a <Java Developer> , <Front End Web Developer>, <Desktop Application Developer using Java> and a <Competitive programmer> too.
 
-<!--
-**sbhardwaj8717/sbhardwaj8717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a project for Early Detection and Prevention of Alzheimer.🤓
+- 🌱 I’m currently learning Kotlin 👨🏻‍💻
+- 👯 I’m looking to collaborate on Java projects. ☕
+- 💬 Ask me anything about Java SE 
+- 📫 How to reach me: 
+           [LinkedIn](https://www.linkedin.com/in/sbhardwaj8717/)
+           [Email](sbhardwaj8717@protonmail.com)
+           [Instagram](https://www.instagram.com/abandoned.me.to.myself/)
+           
+- ⚡ Fun fact: Java is a plant of Coffee and I am a Coffee lover😁☕☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
