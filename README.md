@@ -10,6 +10,7 @@
 - 📫 How to reach me: <br /><br />
            [LinkedIn](https://www.linkedin.com/in/sbhardwaj8717/) <br />
            [Instagram](https://www.instagram.com/abandoned.me.to.myself/) <br />
+           Or mail me at ::- sbhardwaj8717@protonmail.com
            <br />
 - ⚡ Fun fact: Java is a plant of Coffee and I am a Coffee lover😁☕☕
 
